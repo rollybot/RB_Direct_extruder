@@ -1,6 +1,6 @@
 # RB_Direct_extruder
-Light and compact direct extruder for normally delta printer
-It can be installed in nozzle(effector) set for delta. so you can print rubber materials
+Light and compact direct extruder for normally delta printer.
+It can be installed in nozzle(effector) set for delta. so you can print rubber materials.
 Push type
 
 ## Highlights
