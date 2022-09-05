@@ -5,6 +5,7 @@ Push type
 
 ![캡처2](https://user-images.githubusercontent.com/5675424/188382693-97c05e0f-e6df-47c7-bad5-23abc5a0081b.JPG)
 ![캡처1](https://user-images.githubusercontent.com/5675424/188382194-b881de20-26aa-43bb-abab-d4e8c4c69086.JPG)
+![캡처3](https://user-images.githubusercontent.com/5675424/188385127-8480ffd4-e08f-48cb-bcb6-f6b994ebe281.JPG)
 
 
 ## Highlights
