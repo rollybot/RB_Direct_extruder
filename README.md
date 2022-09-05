@@ -13,7 +13,7 @@ Push type
 - BMG Shaft Extrusion Gear Single, Brass extruder gear (dia 11), V623ZZ 3x12x4mm V Groove Extruder Guide Wheel, spring (9*10), 2 bearings
 - 3 stl files
 - STEPS_PER_UNIT : 463 in Marlin config
-- 
+
 ## Release History
 ### V0.0 Initial release (2022 February)
 See https://
