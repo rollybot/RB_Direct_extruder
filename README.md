@@ -10,7 +10,7 @@ Push type
 
 ## Highlights
 - Using LDO-36STH17 NEMA17 round motor ( teeth 10 or 8 )
-- BMG Shaft Extrusion Gear Single, Brass extruder gear (dia 11), V623ZZ 3x12x4mm V Groove Extruder Guide Wheel, spring (9*10)
+- BMG Shaft Extrusion Gear Single, Brass extruder gear (dia 11), V623ZZ 3x12x4mm V Groove Extruder Guide Wheel, spring (9*10), 2 bearings
 - 3 stl files
 
 ## Release History
