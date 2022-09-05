@@ -12,7 +12,7 @@ Push type
 - Using LDO-36STH17 NEMA17 round motor ( teeth 10 or 8 )
 - BMG Shaft Extrusion Gear Single, Brass extruder gear (dia 11), V623ZZ 3x12x4mm V Groove Extruder Guide Wheel, spring (9*10), 2 bearings
 - 3 stl files
-- STEPS_PER_UNIT : 463 in Marlin config
+- STEPS_PER_UNIT : 463 (10 teeth) in Marlin config
 
 ## Release History
 ### V0.0 Initial release (2022 February)
