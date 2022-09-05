@@ -3,6 +3,7 @@ Light and compact direct extruder for normally delta printer.
 It can be installed in nozzle(effector) set for delta. so you can print rubber materials.
 Push type
 
+![캡처2](https://user-images.githubusercontent.com/5675424/188382693-97c05e0f-e6df-47c7-bad5-23abc5a0081b.JPG)
 ![캡처1](https://user-images.githubusercontent.com/5675424/188382194-b881de20-26aa-43bb-abab-d4e8c4c69086.JPG)
 
 
