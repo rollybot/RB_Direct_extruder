@@ -1,6 +1,7 @@
 # RB_Direct_extruder
 Light and compact direct extruder for normally delta printer
 It can be installed in nozzle(effector) set for delta. so you can print rubber materials
+Push type
 
 ## Highlights
 - Using LDO-36STH17 NEMA17 round motor ( teeth 10 or 8 )
