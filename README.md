@@ -1,6 +1,6 @@
 # RB_Direct_extruder
-simple and light weight basic Delta 3D printer.
-You can find the BOM and some parts for this printer at www.rollybot.com website.
+Light and compact direct extruder for normally delta printer
+It can be installed in nozzle(effector) set for delta. so you can print rubber materials
 
 ## Highlights
 - Delta (basic, light-weight)
